@@ -1,0 +1,225 @@
+%departamentos y principales municipio(información de cada uno)
+%
+
+depa('Amazonas', ['Leticia', 'Puerto Nariño']).
+municipio('Leticia',['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural'],['Parque Nacional Natural Amacayacu']).
+municipio('Puerto Nariño',['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural'],['Parque Nacional Natural Amacayacu']).
+depa('Antioquia',['Medellín','Bello','El Peñol','El Retiro','Envigado','La Ceja','Rionegro','Guatapé','Belmira','Sonsón','Concepción','Puerto Triunfo']).
+municipio('Medellín'['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Teleférico'],['Ciudad Botero','Comfama Parque Arví','Jardín Botánico','Acuario','Pueblito Paisa']).
+municipio('Bello',['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Caminata','Parapente'],['Parque Ecológico La Navarra','Monumento Nacional a Don Marco Fidel Suárez','Mirador Cerro Quitasol']).
+municipio('El Peñol',['Caminata','Kayak','Observación Flora y Fauna'],['La Piedra del Peñol']).
+municipio('El Retiro',['Caminata','Observación Patrimonio Cultural'],['La Vuelta a Oriente']).
+municipio('Envigado',['Caminata','Observación Aves, Flora y Fauna','Escalar','Canopy','Espeleología','Observación Patrimonio Cultural'],['Ecoparque El Salado','Casa Museo Fernando González "Otraparte"','Reserva natural Charco Azul','Cuevas del Indio']).
+municipio('La Ceja',['Observación Patrimonio Cultural'],['La Vuelta a Oriente']).
+municipio('Rionegro',['Observación Patrimonio Cultural','Diversión Acuática'],['La Vuelta a Oriente','Parque Recreativo Tutucán']).
+municipio('Guatapé',['Observación Patrimonio Cultural','Kayak','Observación Aves'],['La Vuelta a Oriente']).
+municipio('Belmira',['Caminata Montaña','Observación Aves, Flora y Fauna','Camping'],['Páramo Belmira']).
+municipio('Sonsón',['Caminata','Observación Aves, Flora y Fauna','Escalar','Rafting','Espeleología','Canopy'],['Río Claro']).
+municipio('Concepción',['Caminata','Observación Patrimonio Cultural','Observación Flora y Fauna','Cabalgata'],['Alto de la Virgen','Cascadas de Matasanos','Balneario Charco de los Payasos']).
+municipio('Puerto Triunfo',['Observación Aves, Flora y Fauna','Kayak','Diversión Acuática'],['Parque Temático Hacienda Nápoles'])]).
+depa('Arauca',['Arauca','Cravo Norte','Tame','Saravena']).
+municipio('Arauca',['Diversión Acuática','Observación Patrimonio Cultural','Observación Flora y Fauna','Coleo'],['Los Araguatos Centro Recreacional','Acuaparque Las Toninas','Museo de la Cultura','Parque Ecológico del Llano','Malecón','Mangas de Coleo']).
+municipio('Cravo Norte',['Caminata','Observación Flora y Fauna'],['Los Médanos','Las Dunas']).
+municipio('Tame',['Observación Patrimonio Cultural','Observación Flora y Fauna','Caminata'],['Ruinas del Caribabare','Laguna de la Vieja','Parque Natural Sierra Nevada del Cocuy']).
+municipio('Saravena',['Observación Patrimonio Cultural','Observación Flora y Fauna'],['Festival Internacional de Música Llanera "Arpa de Oro"'])]).
+depa('Atlántico',['Barranquilla','Puerto Colombia','Usiacurí','Tubará']).
+municipio('Barranquilla',['Espeleología','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Playa'],['Cueva de la Mojana ','Volcán de Lodo','Pradomar','Puerto Velero','Carnaval de Barranquilla','Museo romántico','Zoológico']).
+municipio('Puerto Colombia',['Playa','Observación Patrimonio Cultural','Kayak','Caminata'],['Playa Grande','Montaña de Henry Pittier','Castillo de Salgar','Laguna del Cisne']).
+municipio('Usiacurí',['Observación Aves, Flora y Fauna','Observación Patrimonio Cultural'],['Casa Museo Julio Flórez','Termales']).
+municipio('Tubará',['Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Playa'],['Mirador Turistico','Punta Castillejo','Piedra Pintada'])]).
+depa('Bolívar',['Cartagena','Altos del Rosario','El Carmen de Bolívar','Magangué']).
+municipio('Cartagena',['Caminata','Observación Flora y Fauna','Observación Patrimonio Cultural','Careteo','Buceo','Kayak','Playa'],['Parque Nacional Natural Los Corales','Casa de Rafael Núñez','Monumento a la India Catalina','Cerco de Murallas','Castillo San Felipe de Barajas','Fuerte de San José de Bocachica','Jardín Botánico']).
+municipio('Altos del Rosario',['Buceo','Playa','Obervación Aves, Flora y Fauna'],['27 islas']).
+municipio('El Carmen de Bolívar',['Caminata','Observación Patrimonio Cultural']),['Montes de María','Recetas tradicionales']).
+municipio('Magangué',['Observación Patrimonio Cultural'],(['Catedral de La Candelaria','Parque de Las Américas'])]).
+depa('Boyacá',['Tunja','El Cocuy','Villa de Leyva','Moniquirá','Paipa','Aquitania','Monguí','Tota','Corrales','Tibasosa','Belen','Garagoa','Chiquinquirá','Ráquira','Mongua']).
+municipio('Tunja',['Observación Patrimonio Cultural'],['Pozo Donato o Hunzahua','Puente de Boyacá','Arquitectura civil y religiosa','Casa del Fundador','Plaza de Bolívar','Los Cojines del Zaque','Museo de Arte Colonial','Catedral Santiago de Tunja','Claustro de San Agustín']).
+municipio('El Cocuy',['Caminata Montaña','Observación Aves, Flora y Fauna'],['Parque Nacional Natural El Cocuy']).
+municipio('Villa de Leyva',['Caminata','Buggies','Camping','Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Cabalgata','Observatorio Estrellas','Espeleología'],['Plaza Principal','Casa de Nariño','Museo Paleonto,lógico','Casa del General Gustavo Rojas Pinilla','Museo del Carmen','El Fósil','El Infiernito','Cueva de la Fábrica','El Hayal','Cascada de la Periquera','Desierto','Granja de Avestruces']).
+municipio('Moniquirá',['Diversión Acuática','Observación Aves, Flora y Fauna','Espeleología'],['Cascada Real','Centro Recreacional Comfaboy','Cuenas de Pueblo Viejo']).
+municipio('Paipa',['Diversión Acuática','Kayak','Observación Patrimonio Cultural','Observación Flora y Fauna'],['Termales','Lago Sochagota','Monumento a los Lanceros del Pantano de Vargas','Concha Acústica','Parque Acuático y Centro Terapéutico']).
+municipio('Aquitania',['Kayak','Observación Aves, Flora y Fauna','Caminata','Playa'],['Playa Blanca']).
+municipio('Monguí',['Espeleología','Caminata','Observación Flora y Fauna','Observación Patrimonio Cultural'],['Puente Colonial de Calicanto','Basílica Menor de Nuestra Señora de Monguì','Páramo de Ocetá','Cueva del Duende','La Cascada','Gran Mirador']).
+municipio('Tota',['Kayak','Observación Aves, Flora y Fauna'],['Lago de Tota']).
+municipio('Corrales',['Observación Patrimonio Cultural'],['Iluminación Navideña']).
+municipio('Tibasosa',['Observación Aves, Flora y Fauna','Caminata'],['Parque Zoológico Guatika','Iluminación Navideña']).
+municipio('Belen',['Observación Patrimonio Cultural','Caminata','Observación Flora y Fauna'],['Busto en Bronce','Centro Recreacional Villa El Encanto','Lagunas']).
+municipio('Garagoa',['Caminata','Observación Aves, Flora y Fauna'],['Reserva Natural Privada "El Secreto"','Las Juntas','Mirador del Alto de Santa Bárbara','La cascada del río Tunjita','Páramo de Mamapacha']).
+municipio('Chiquinquirá',['Observación Patrimonio Cultural','Caminata'],['Basilica Nuestra Señora del Rosario','Estación del Ferrocarril','Colina Maria Ramos','Laguna Verde']).
+municipio('Ráquira',['Observación Patrimonio Cultural'],['Monasterio de la Candelaria','Museo de Arte']).
+municipio('Mongua',['Camping','Observación Flora y Fauna','Caminata'],['Parque Nacional Natural Pisba'])]).
+depa('Caldas',['Manizales','Aguadas','Belalcázar','La Dorada','Samaná','Pensilvania','Salamina','Villamaría']).
+municipio('Manizales',['Relajación y Yoga','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Caminata','Diversión Acuática'],['Reciento del Pensamiento','Feria de Manizales','Bolívar Cóndor','Parque del Observatorio','Ecoparque Los Yarumos','Nevado del Ruíz','Agroparque Tierra Viva Termales y Naturaleza']).
+municipio('Aguadas',['Observación Patrimonio Cultural','Caminata'],['Festival Nacional del Pasillo Colombiano','Cerro Monserrate','Pueblito Viejo','Museo del Sombrero','Puente Piedras']).
+municipio('Belalcázar',['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Caminata'],['Monumento a Cristo Rey','Parque EcoTecnológico "Las Heliconias"','Centro Histórico de Construcciones de la Colonización Antioqueña','Miradores']).
+municipio('La Dorada',['Observación Patrimonio Cultural'],['Parque Simón Bolívar','Parque Santander']).
+municipio('Samaná',['Caminata','Observación Fauna'],['Parque Nacional Natural Selva de Florencia']).
+municipio('Pensilvania',['Caminata','Cabalgata','Observación Flora y Fauna'],['Centro Vacacional El Bosque']).
+municipios('Salamina',['Observación Patrimonio Cultural','Observación Flora y Fauna','Caminata'],['La Pila','El Kiosko','Bosque Natural Palma De Cera La Samaria']).
+municipio('Villamaría',['Caminata','Observación Flora y Fauna'],['Acuaparque La Montaña', 'Parque Temático de las Flores', 'Cascada los Molinos y Nereidas', 'Parque Villa Diana'])]).
+depa('Caquetá',['Florencia','San José del Fragua','Belén de los Andaquies']).
+municipio('Florencia',['Observación Patrimonio Cultural','Canopy','Caminata','Bicicleta','Cabalgata','Kayak','Observación Aves'],['Ecoparque La Calera','Piedra Grabada "El Encanto"','Mirador Las Malvinas','Parque Nacional Natural Cordillera de Los Picachos']).
+municipio('San José del Fragua',['Observación Fauna','Caminata'],['Parque Nacional Natural Alto Fragua Indi Wasi']).
+municipio('Belén de los Andaquies',['Observación Fauna','Caminata'],['Parque Nacional Natural Alto Fragua Indi Wasi'])]).
+depa('Casanare',['Yopal','Maní','Monterrey','Pore','Orocué','Paz de Ariporo']).
+municipio('Yopal',['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Caminata'],['La Guatoca','Fudno','La Calaboza','Santuario de La Virgen de Nuestra Señora de La Peña','Parque Ecológico La Iguana','Tilodirán','Pozos de Agua Cristalina']).
+municipio('Maní',['Kayak','Observación Flora y Fauna'],['Laguna del Tinije']).
+municipio('Monterrey',['Coleo','Observación Patrimonio Cultural','Espeleología','Parapente','Observación Aves, Flora y Fauna'],['Festival de Verano del Río Túa','Cuevas del Vampiro','Copa Internacional de Coleo','Laguna del Cacical','Cascadas','Miradores']).
+municipio('Pore',['Observación Patrimonio Cultural'],['Ruinas','Calles empedradas']).
+municipio('Orocué',['Cabalgata','Observación Patrimonio Cultural'],['Resguardo de los indios Sikuani']).
+municipio('Paz de Ariporo',['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Cabalgata','Observación Aves, Flora y Fauna'],['Reserva Natural La Aurora'])]).
+depa('Cauca',['Popayán','Inzá','Guapí']).
+municipio('Popayán',['Caminata Montaña','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Caminata'],['Parque Nacional Natural Puracé','Parque Nacional Natural Munchique','Museo Casa Mosquera','Torre del reloj','Morro del Tulcán','Museo Arquidiocesano de Arte Religioso','Santuario de Belén']).
+municipio('Inzá',['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna'],['Parque Arqueológico de Tierradentro']).
+municipio('Guapí',['Caminata','Observación Aves, Flora y Fauna','Careteo','Avistamiento Ballenas','Buceo'],['Parque Nacional Natural Isla Gorgona','Acuario'])]).
+depa('Cesar',['Valledupar','Chimichagua','La Paz','Pueblo Bello','Manaure','San Diego']).
+municipio('Valledupar',['Observación Patrimonio Cultural'],['Badillo','Custodia Colonial','El Obelisco','Escultura de Hernando de Santana','Escultura de los Gallos de Pelea','La Maria Mulata','Los Poporos','Parque de la Leyenda Vallenata "Consuelo Araujo Noguera"']).
+municipio('Chimichagua',['Kayak','Obervación Flora y Fauna'],['Ciénaga de Zapatosa','Miradores']).
+municipio('La Paz',['Observación Patrimonio Cultural'],['Festival de la Almojabanera', 'Festival Voces y Canciones','San José de Oriente']).
+municipio('Pueblo Bello',['Caminata Montaña','Observación Flora y Fauna','Observación Patrimonio Cultural'],['Nabusímake']).
+municipio('Manaure',['Caminata Montaña','Observación Flora y Fauna','Observación Patrimonio Cultural'],['Cerro de La Cruz y el Balneario Natural Paso de la Danta','Parque Principal']).
+municipio('San Diego',['Observación Patrimonio Cultural'],['Fiestas de la Virgen del Perpetuo Socorro','Los Tupes','Restaurante de La Lule'])]).
+depa('Chocó',['Quibdó','Bahía Solano','Acandí','El Carmen de Atrato','Nuquí','Puerto Rico']).
+municipio('Quibdó',['Observación Patrimonio Cultural','Observación Flora y Fauna'],['El Malecón','Catedral de San Francisco de Asís']).
+municipio('Bahía Solano',['Caminata','Observación Aves, Flora y Fauna','Avistamiento Ballenas','Surf','Careteo','Buceo','Kayak','Playa'],['Parque Nacional Natural Utría']).
+municipio('Acandí',['Cabalgata','Bicileta','Caminata','Buceo', 'Snorkeling'],['Capurganá','Cascada del Cielo', 'Piscina de los Dioses', 'Cabo Tiburón','Hoyo Soplador Iracas de Belén']).
+municipio('El Carmen de Atrato',['Observación Aves, Flora y Fauna'],['Reserva Natural de Aves Las Tángaras de Proaves','Cascada La Pola']).   
+municipio('Nuquí',['Caminata','Observación Aves, Flora y Fauna','Avistamiento Ballenas','Surf','Careteo','Buceo','Kayak'],['Parque Nacional Natural Utría']). 
+municipio('Pueblo Rico',['Caminata','Observación Aves, Flora y Fauna'],['Parque Nacional Natural Tatama'])]).
+depa('Córdoba',['Montería','Ayapel','Montelíbano','Lorica','San Bernardo del Viento']).
+municipio('Montería',['Observación Patrimonio Cultural','Observación Flora y Fauna','Caminata'],['Museo Arqueológico Zenú','Estatua del Libertador','Parque Rancho Grande','Catedral San Jerónimo de Montería','Zoocriadero Los Caimanes','El Malecón']).
+municipio('Ayapel',['Playa','Observación Flora y Fauna'],['Ciénaga de Ayapel']).
+municipio('Montelíbano',['Observación Patrimonio Cultural'],['Ferroniquel de Cerro Matoso']).
+municipio('Lorica',['Observación Patrimonio Cultural','Observación Flora y Fauna'],['Construcciones Árabes y Republicanas','Ciénaga Grande de Lorica']).
+municipio('San Bernardo del Viento',['Playa','Observación Flora y Fauna'],['Archipiélago de San Bernardo'])]).
+depa('Cundinamarca',['Bogotá','Nemocón','San Antonio del Tequendama','Anapoima','Suesca','Tocaima','Girardot','Cogua','Zipaquirá','Choachí','Nocaima','Villeta','La Mesa','Guasca']).
+municipio('Bogotá',['Caminata','Cabalgata','Kajak','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Diversión Acuática','Observatorio Estrellas'],['Parque Ecológico Jericó','Bioparque La Reserva','Capitolio Nacional','Ecoparque Chinauta','Santuario de Monserrate','Maloka','CICI AQUAPARK','Jardín Botánico','Planetario Distrital']).
+municipio('Nemocón',['Observación Patrimonio Cultural','Caminata'],['Mina de Sal','Museo de la Sal','Cascada de Sal']).
+municipio('San Antonio del Tequendama',['Caminata','Observación Flora y Fauna','Canopy','Rappel','Escalar'],['Zoológico Santacruz','Eco Center']).
+municipio('Anapoima',['Observación Flora y Fauna','Caminata','Coleo','Observación Patrimonio Cultural','Camping'],['Campeonato Nacional de Toros Coleados', 'Campeonato Internacional de Ajedrez', 'Encuentro Nacional de Danzas Folclóricas','Ecoparque El Gaitero']).
+municipio('Suesca',['Camping','Caminata','Observación Patrimonio Cultural'],['Cañón de la Lechuza','La roca de las Aves']).
+municipio('Tocaima',['Camping','Diversión Acuática'],['Centro Vacacional Tocaima - FONBIENESTAR']).
+municipio('Girardot',['Kayak','Diversión Acuática','Caminata'],['Centro Vacacional Lagosol','Colonia Vacacional Los Puentes-COMFACUNDI','Festival Turístico y Reinado Nacional del Turismo','Embarcadero Turístico','Mirador del Alto de la Cruz']).
+municipio('Cogua',['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural'],['Reserva Forestal','Pozo Azul', 'Parque del Río Neusa', 'Foyer de Charite', 'Capilla de María Auxiliadora', 'Pictogramas de las Piedras de la Bayena']).
+municipio('Zipaquirá',['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural'],['Capilla de los Dolores','Catedral de Sal','Museo de la Salmuera', 'Plazoleta del Minero', 'Rutas Ecológicas']).
+municipio('Choachí',['Rappel','Espeleología','Caminata','Observación Aves'],['Parque La Chorrea']).
+municipio('Nocaima',['Canopy','Escalar','Caminata','Rappel','Espeleología'],['Parque de Aventura Esmeralda Xtreme']).
+municipio('Villeta',['Escalar','Caminata Montaña','Caminata','Camping'],['Bocatoma','Los trapiches','Reinado Nacional de la Panela']).
+municipio('La Mesa',['Canopy','Rapppel','Escalar','Caminata','Observación Aves, Flora y Fauna'],['Ecoparque Macadamia Extrem']).
+municipio('Guasca',['Caminata Montaña','Observación Aves, Flora y Fauna'],['Parque Nacional Natural Chingaza'])]).
+depa('Guainía',['Puerto Inírida']).
+municipio('Puerto Inírida',['Caminata','Observación Patrimonio Cultural','Observación Aves, Flora y Fauna','Kayak'],['Cerros de Mavicure','Parque Nacional Natural Puinawi','Raudal del Mapiripana','Sicuani y Piapoco'])]).
+depa('Guaviare',['San José del Guaviare','El Retorno','Miraflores']).
+municipio('San José del Guaviare',['Espeleología','Observación Patrimonio Cultural','Caminata','Observación Flora y Fauna'],['Ciudad de Piedra','Puerta de Orión','Parque Nacional Natural Serranía de Chiribiquete','Raudal del Guayabero','Cascadas','Pozos']).
+municipio('El Retorno',['Caminata','Kayak','Observación Flora y Fauna','Observacíon Patrimonio Cultural'],['Raudal del Tomachipán','Reserva Nacional Natural Nukak']).
+municipio('Miraflores',['Caminata','Observación Flora y Fauna','Observacíon Patrimonio Cultural'],['Reserva Nacional Natural Nukak'])]).
+depa('Huila',['Neiva','San Agustín','Palestina','Villavieja']).
+municipio('Neiva',['Caminata','Observación Aves','Observación Patrimonio Cultural','Kayak'],['Parque Arqueológico Nacional de Tierradentro','Complejo Turístico de Santa Helena','Embalse de Betania','La Cacica Gaitana','Parque Santander','Parque Nacional Natural Nevado del Huila']).
+municipio('San Agustín',['Caminata','Observación Patrimonio Cultural'],['Parque Arqueológico de San Agustín']).
+municipio('Palestina',obbies(['Espeleología','Caminata','Observación  Aves, Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Parque Nacional Natural Cueva de Los Guácharos'])),
+               municipio('Villavieja',hobbies(['Caminata','Observación Aves, Flora y Fauna','Camping','Observatorio Estrellas','Bicicleta']),atractivos(['Desierto La Tatacoa'])),municipio('Rivera',hobbies(['Observación Flora']),atractivos(['Termales de Rivera']))]).
+
+depto('La Guajira',[municipio('Riohacha',hobbies(['Caminata','Observación  Aves, Flora y Fauna','Observación Patrimonio Cultural','Kayak']),atractivos(['Santuario de Flora y Fauna Flamencos','Monumento a Francisco el Hombre','Muelle Turístico','Festival Nacional del Dividivi'])),
+                    municipio('Maicao',hobbies(['Observación Patrimonio Cultural','Playa']),atractivos(['El Cerrejón','Laguna Majayura', 'Catedral de San José'])),
+                    municipio('Uribia',hobbies(['Caminata','Observación  Aves, Flora y Fauna','Observación Patrimonio Cultural','Playa']),atractivos(['Parque Nacional Natural Serranía de Macuira','Cabo de La Vela','Comunidad Wayú']))]).
+
+depto('Magdalena',[municipio('Santa Marta',hobbies(['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural','Kayak','Buceo','Camping','Hamaca','Diversión Acuática']),atractivos(['Santuario de Flora y Fauna Ciénaga','Isla Salamanca','Parque Nacional Natural Tayrona','Parque Nacional Natural Sierra Nevada de Santa Marta','El Altar de La Patria','El Rodadero','Acuario Mundo Marino','Parque Arqueológico de Ciudad Perdida','El Camellón','Castillo de San Fernando','Museo Arqueológico Chairama','El Castillo'])),
+                   municipio('Ciénaga',hobbies(['Caminata','Observación Patrimonio Cultural','Playa','Camping']),atractivos(['Templete', 'Iglesia San Juan Bautista', 'Palacio de Gobierno','Festival Nacional del Caimán Cienaguero','Termales','Ciénaga Grande'])),
+                   municipio('Taganga',hobbies(['Buceo','Snorkeling','Kayak','Playa']),atractivos(['Mirador','Artesanias']))]).
+
+depto('Meta',[municipio('Villavicencio',hobbies(['Kayak','Observación Aves, Flora y Fauna','Caminata','Diversión Acuática','Cabalgata','Coleo','Observación Patrimonio Cultural']),atractivos(['Bioparque Los Ocarros','Parque Las Malocas','Monumento de Cristo Rey','Jardín Botánico','Museo de las Aves'])),
+              municipio('Guamal',hobbies(['Observación Patrimonio Cultural']),atractivos(['Balnearios','Ferias y Fiestas del Guamal','Festival de Colonias'])),
+              municipio('Acacías',hobbies(['Observación Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Balnearios','El Castillo','Festival del Retorno'])),
+              municipio('La Macarena',hobbies(['Caminata','Observación Aves, Flora y Fauna','Relajación y Yoga','Rafting']),atractivos(['Parque Nacional Natural Sierra de La Macarena','Arqueología en el Raudal de Angosturas','Ciudad de Piedra','Cascada de Caño Canoas'])),
+              municipio('Vista Hermosa',hobbies(['Caminata','Observación Aves, Flora y Fauna','Relajación y Yoga']),atractivos(['Parque Nacional Natural Sierra de La Macarena'])),
+              municipio('Mesetas',hobbies(['Observaión Aves, Flora y Fauna']),atractivos(['Parque Nacional Natural Tinigua'])),
+              municipio('Puerto López',hobbies(['Kayak','Observación Patrimonio Cultural']),atractivos(['Obelisco','Río Meta'])),
+              municipio('Restrepo',hobbies(['Caminata','Observación Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Salinas de Upin','Termales','Centro Agro ecológico La Cosmopolitana'])),
+              municipio('San Martín',hobbies(['Coleo','Observación Fauna']),atractivos(['Granja Iracá','Festival Internacional Folclórico y Turístico del Llano']))]).
+
+depto('Nariño',[municipio('Pasto',hobbies(['Caminata Montaña','Observación Aves, Flora y Fauna','Kayak','Parapente']),atractivos(['Santuario de Flora y Fauna Galeras','Laguna de La Cocha','Isla La Corota','Plaza de Nariño','Museo Escolar María Goretti','Museo del Carnaval','Museo del Oro Nariño'])),
+                municipio('Túquerres',hobbies(['Cabalgata','Caminata']),atractivos(['Laguna Verde','Laguna de Los Muertos','Laguna Negra'])),
+                municipio('Tumaco',hobbies(['Observación Flora y Fauna','Playas']),atractivos(['Parque Nacional Natural Sanquianga'])),
+               municipio('Ipiales',hobbies(['Observación Patrimonio Cultural','Caminata Montaña']),atractivos(['Santuario de Nuestra Señora de Las Lajas','Puente Internacional de Rumichaca','Volcán Cumbal']))]).
+
+depto('Norte de Santander',[municipio('Cúcuta',hobbies(['Espeleología','Caminata','Observación Flora y Fauna','Rafting']),atractivos(['Parque Nacional Natural Tamá','Monumento Indio Motilón','Museo Casa de la Cultura de Cúcuta','Cerro Tasajero','Zulia','La Garita'])),
+                            municipio('Ocaña',hobbies(['Observación Patrimonio Cultural']),atractivos(['Monumento a Antón García de bonilla','Columna de la libertad','Cristo rey','Museo Antón García de bonilla'])),
+                            municipio('Pamplona',hobbies(['Observación Patrimonio Cultural']),atractivos(['Casa Colonial Museo','Parque Águeda Gallardo'])),
+                            municipio('Villa del Rosario',hobbies(['Observación Patrimonio Cultural']),atractivos(['Casa Museo Santander', 'Academia de Historia','Estatua Gigante de Santander','Ruinas Templo Histórico'])),
+                            municipio('Convención',hobbies(['Camping','Observación Aves, Fauna']),atractivos(['Parque Nacional Natural Catatumbo-Barí'])),
+                            municipio('El Carmen',hobbies(['Camping','Observación Aves, Fauna']),atractivos(['Parque Nacional Natural Catatumbo-Barí'])),
+                            municipio('Tibú',hobbies(['Camping','Observación Aves, Fauna']),atractivos(['Parque Nacional Natural Catatumbo-Barí'])),
+                            municipio('La Playa',hobbies(['Caminata','Espeleología']),atractivos(['Camino de la Virgen, Paso de las Ánimas, Cueva de la Gringa y la Chorrera','Ciudad Pérdida']))]).
+
+depto('Putumayo',[municipio('Mocoa',hobbies(['Observación Aves, Flora y Fauna','Caminata']),atractivos(['Paway, Centro Ecoturístico Amazónico','Yunguillo','Cañón Del Mandiyaco','Churumbelo'])),
+                  municipio('Villagarzón',hobbies(['Caminata','Observación Patrimonio Cultural','Espeleología']),atractivos(['Cascada del Indio','Cascadas Fin del Mundo','Cavernas de Licamancha'])),
+                  municipio('Puerto Asís',hobbies(['Observación Patrimonio Cultural']),atractivos(['Río Guamués'])),
+                  municipio('Puerto Leguízamo',hobbies(['Observación Flora y Fauna','Caminata']),atractivos(['Parque Nacional Natural La Paya'])),
+                  municipio('Orito',hobbies(['Caminata','Observación Flora y Fauna']),atractivos(['Santuario Flora y Fauna Plantas Medicinales Orito Ingi-Ande']))]).
+
+depto('Quindío',[municipio('Armenia',hobbies(['Observación Aves,Flora y Fauna','Cabalgata','Kayak','Caminata']),atractivos(['Centro Cultural y Museo Quimbaya','Tierra-Arte o Barranquismo','Parque de la Vida','Parque de la Acuicultura y Pesca Deportiva
+Lagos de las Vegas','Panabi. Parque Nacional de la Biodiversidad'])),
+                 municipio('Calarcá',hobbies(['Rappel','Escalar','Espeleología','Observación Aves, Flora y Fauna','Caminata']),atractivos(['Ecoparque Peñas Blancas','Jardín Botánico del Quindío','Zoológico de Insectos','Liana','Laberinto'])),
+                 municipio('Salento',hobbies(['Caminata','Camping','Cabalgata']),atractivos(['Coffee Tour El Ocaso','Parque Agroecológico La Tierra Prometida','Mirador de La Cruz'])),
+                 municipio('Quimbaya',hobbies(['Observación Aves,Fauna y Flora','Caminata','Cabalgata','Canopy']),atractivos(['Finca La Divisa','La Pequeña Granja de Mamá Lulú','PANACA QUIMBAYA','Reserva Ecológica Valle del Cocora'])),
+                 munucipio('Córdoba',hobbies(['Observación Patrimonio Cultural']),atractivos(['Centro Experimental para el Estudio del Bambú-Guadua'])),
+                 municipio('Filandia',hobbies(['Observación Patrimonio Cultural']),atractivos(['Templo La Inmaculada', 'Plaza Mayor', 'El Otobo'])),
+                 municipio('Montenegro',hobbies(['Observación Patrimonio Cultural']),atractivos(['Parque Nacional del Café','Museo Nacional del Café', 'Torre Mirador de 18 metros de altura','Jardín de las Fábulas']))]).
+
+depto('Risaralda',[municipio('Pereira',hobbies(['Caminata','Observación Aves, Flora y Fauna']),atractivos(['Santuario de Flora y Fauna Otún Quimbaya','Bioparque Ukumarí','Zoológico Matecaña','Museos','Monumentos','Parque Nacional Natural Tatamá'])),
+                   municipio('Santa Rosa de Cabal',hobbies(['Kayak','Canopy','Observación Flora y Fauna','Observación Patrimonio Cultural','Caminata']),atractivo(['Termales','Lago Venecia','Parque Regional Natural Las Marcadas','Iglesia de Nuestra Señora de Las Victorias','Parque Ucumarí'])),
+                   municipio('Belén de Umbría',hobbies(['Observación Patrimonio Cultural']),atractivo(['Museo Arqueológico Eliseo Bolívar'])),
+                   municipio('Dosquebradas',hobbies(['Observación Flora y Fauna','Observación Patrimonio Cultural','Caminata']),atractivo(['Piedras Marcadas','Reserva de Flora y Fauna Alto Nudo','Parque Regional La Marcada','Parque Lagos la Pradera','Agrovillas'])),
+                   municipio('La Virginia',hobbies(['Observación Patrimonio Cultural']),atractivo(['Playas del Río Risaralda', 'Valle del Río Risaralda'])),
+                   municipio('Marsella',hobbies(['Observación Flora y Fauna','Observación Patrimonio Cultural','Caminata']),atractivo(['Jardín Botánico Alejandro Humbolt', 'Zona de Reserva Forestal la Nona', 'Parque de la Pola (Parque principal)', 'Eco-Hotel Los Lagos', 'Bosque Don Manuel']))]).
+
+depto('San Andres y Providencia',[municipio('San Andres',hobbies(['Snorkeling','Playa','Kayak','Jet Ski','Observación Fauna','Observación Patrimonio Cultural']),atractivo(['Casa Museo Isleña','Acuario','Hoyo Soplador','Johnny Cay','Laguna Big Pond'])),
+                                  municipio('Santa Catalina',hobbies(['Espeleología','Playa','Observación Fauna','Observación Patrimonio Cultural']),atractivo(['Cueva de Morgan','Cabeza de Morgan'])),
+                                  municipio('Providencia',hobbies(['Caminata','Observación Flora y Fauna','Kayak','Careteo','Buceo','Playa','Observación Patrimonio Cultural']),atractivos(['Parque Nacional Natural Old Providence','El Pico']))]).
+
+depto('Santander',[municipio('Bucaramanga',hobbies(['Observación Flora','Observación Patrimonio Cultural']),atractivos(['Parques','Museo de Arte Moderno','Museo Guane de Floridablanca','Jardín Botánico Eloy Valenzuela'])),
+                   municipio('Barbosa',hobbies(['Espeleología','Observación Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Cuevas de Sánchez','Balnearios', 'Cueva Santa Rosa', 'Pozo del Ortigo', 'Playa Piedra de Pato'])),
+                   municipio('Aratoca',hobbies(['Caminata','Teleférico','Jumping','Buggies','Canopy','Observación Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Parque Nacional del Chicamocha'])),
+                   municipio('Barichara',hobbies(['Caminata','Observación Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Camino Real','Casa Natal de Aquileo Parra','Capilla de Jesús','Parque Natural de La Chorrera','Miradores','Museo Casa de la Cultura Emilia Pradilla González'])),
+                   municipio('Girón',hobbies(['Observación Patrimonio Cultural']),atractivos(['Casa donde nació Eloy Valenzuela','Puentes de calicanto','Feria y Reinado del Turismo'])),
+                   municipio('San Gil',hobbies(['Observación Flora y Fauna','Observación Patrimonio Cultural','Rafting','Espeleología']),atractivos(['Parque El Gallineral','Cuevas'])),
+                   municipio('Socorro',hobbies(['Observación Aves,Flora y Fauna','Rappel','Kayak']),atractivos(['Quinta Fominaya','Haciena Majavita','Capitolio del Estado','Embalse La Honda','Embalse Aguilitas','Salto El Bejuco','Cerro El Teran'])),
+                   municipio('Vélez',hobbies(['Observación Patrimonio Cultural']),atractivos(['Festival Nacional de la Guabina y el Tiple', 'Desfile de las Flores', 'Exposición Nacional del Bocadillo'])),
+                   municipio('Guane',hobbies(['Observación Patrimonio Cultural']),atractivos(['Fósiles marinos', 'Libros coloniales', 'Museo Arqueológico'])),
+                   municipio('El Carmen de Chucurí',hobbies(['Caminata','Observación Fauna']),atractivos(['ParqueNacional Natural Serranía de Los Yariguíes'])),                      municipio('Rionegro',hobbies(['Diversión Acuática','Camping','Bicicleta','Cabalgata','Kayak','Caminata']),atractivos(['Parque Ecológico El Portal']))]).
+
+depto('Sucre',[municipio('Sincelejo',hobbies(['Cabalgata','Observación Patrimonio Cultural']),atractivo(['Fiestas de Dulce Nombre de Jesús','Rutas Festividades'])),
+               municipio('San Benito Abad',hobbies(['Observación Patrimonio Cultural']),atractivo(['Ciénaga de San Marcos','Cristo de la Expiración o Señor de los Milagros'])),
+               municipio('Colosó',hobbies(['Diversión Acuática','Observación Patrimonio Cultural']),atractivo(['Piscinas Naturales','Manantiales Azufrados','Museo Precolombino'])),
+               municipio('Coveñas',hobbies(['Playa','Kayak','Hamaca']),atractivos(['Volcán del Lodo el Tesoro', 'San Antero', 'Museo el Calabazo'])),
+               municipio('Sampués',hobbies(['Observación Patrimonio Cultural']),atractivos(['Confección Sombreros Vueltiaos'])),
+               municipio('Tolúviejo',hobbies(['Espeleología']),atractivos(['La Serranía de San Jerónimo','Cavernas prehistóricas de San José'])),
+               municipio('San Onofre',hobbies(['Caminata','Cabalgata','Kayak','Buceo','Playa','Observación Aves,Flora y Fauna']),atractivos(['Reserva Natural Sanguaré','Lagunas Costeras','Lagunas de Agua Dulce','Bosque Seco Tropical','Santuario Flora y Fauna El Corchal El Mono Hernández']))]).
+
+depto('Tolima',[municipio('Ibagué',hobbies(['Rapell','Camping','Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Museo Antropológico', 'Conservatorio', 'Jardín Botánico San Jorge','Cerro Pan de Azúcar','Cañón del Combeima','Parque Museo La Martinica','Santafé de los Guaduales'])),
+                municipio('Ambalema',hobbies(['Observación Patrimonio Cultural']),atractivos(['Laguna natural','Casa Inglesa'])),
+                municipio('Anzoátegui',hobbies(['Observatorio Estrellas','Observación Patrimonio Cultural']),atractivos(['Lagunas de Agua Templada y Caliente','Observatorio Astronómico'])),
+                municipio('Carmen de Apicalá',hobbies(['Bicicleta','Sky','Calbalgata','Observación Patrimonio Cultural']),atractivos(['Basílica de la Virgen del Carmen'])),
+                municipio('Melgar',hobbies(['Caminata','Observación Aves, Flora y Fauna','Diversión Acuática']),atractivos(['Parque Recreativo y Zoológico Piscilago','Ciudad Reptilia'])),
+                municipio('El Espinal',hobbies(['Observación Patrimonio Cultural']),atractivos(['Parque Mitológico','La Madre Monte'])),
+                municipio('Flandes',hobbies(['Paracaidismo','Observación Patrimonio Cultural']),atractivos(['Río Magdalena'])),
+                municipio('Honda',hobbies(['Observación Patrimonio Cultural']),atractivos(['Casona de los Virreyes','Museo del Río 21 Plaza de mercado','Alto El Retiro','Calle de Las Trampas'])),
+                municipio('Mariquita',hobbies(['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna']),atractivos(['Cataratas del Río Medina','Laguna del Silencio'])),
+                municipio('Natagaima',hobbies(['Observación Patrimonio Cultural','Observación Aves, Flora y Fauna']),atractivos(['Fiesta del San Juan','Cerro de Pacandé', 'Balneario del Patá', 'Río Anchique', 'Cementerio Indígena Hipogeo'])),
+                municipio('Prado',hobbies(['Kayak''Observación Patrimonio Cultural','Observación Aves, Flora y Fauna']),atractivos(['Represa de Prado','Laguna Encantada']))]).
+
+depto('Valle del Cauca',[municipio('Cali',hobbies(['Caminata','Observación Aves, Flora y Fauna']),atractivos(['Parque Nacional Natural Farrallones','Zoológico de Cali'])),
+                         municipio('El Cerrito',hobbies(['Canopy','Buggie','Observación Flora','Observación Patrimonio Cultural']),atractivos(['Museo de la Caña','Parque de Aventuras Piedemonte'])),
+                         municipio('Palmira',hobbies(['Kayak','Canopy','Diversión Acuática','Observación Patrimonio Cultural']),atractivos(['Museo de la Caña','Acuaparque Tardes Caleñas'])),
+                         municipio('Buga',hobbies(['Camping','Observación Patrimonio Cultural','Observación Aves, Flora y Fauna']),atractivos(['Parque Natural Farallones','Lago Calima','Centro de Visitantes en El Topacio','Jardín Botánico Juan María Céspedes','Obelisco Faro Monumento Alejandro Cabal Pombo','Basílica del Señor de los Milagros'])),
+                         municipio('Caicedonia',hobbies(['Observación Aves, Flora y Fauna','Kayak']),atractivos(['Parque del Café', 'Jardín Botánico','Club de Caza y Pesca','Jardín de María','Parque Nacional de las Heliconias'])),
+                         municipio('Tuluá',hobbies(['Rappel','Rafting','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Jardín Botánico Juan María Céspedes','Bosque Seco','Lago Chillicote','Parque de la Guadua','Cascada la Arenosa'])),
+                         municipio('Buenaventura',hobbies(['Buceo','Playa','Avistamiento Ballenas','Caminata','Observación Fauna']),atractivos(['Santuario de Flora y Fauna Malpelo','Archipiélago de Malpelo','Playas de Juanchaco y Ladrilleros','Parque Nacional Natural Uramba Bahía Málaga']))]).
+
+depto('Vaupés',[municipio('Mitú',hobbies(['Kayak','Observación Fauna']),atractivo(['Raudales de Yurupari','Serranía Morroco','Túnel del Apaporis'])),
+                municipio('Pacoa',hobbies(['Observación Fauna']),atractivo(['Raudal del Jirijirimo'])),
+                municipio('Taraira',hobbies(['Observación Flora y Fauna']),atractivo(['Parque Nacional Natural Yaigojé-Apaporis']))]).
+
+depto('Vichada',[municipio('Puerto Carreño',hobbies(['Coleo','Observación Aves,Fauna y Flora','Kayak','Observación Patrimonio Cultural']),atractivo(['Manga de Coleo','Centro Investigación de Energías Renovables - CINER'])),
+                 municipio('Cumaribo',hobbies(['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Parque Nacional Natural El Tuparro','Raudal de Maipures'])),
+                 municipio('La Primavera',hobbies(['Caminata','Observación Aves, Flora y Fauna','Observación Patrimonio Cultural']),atractivos(['Parque Nacional Natural El Tuparro','Raudal de Maipures']))]).
